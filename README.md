@@ -19,6 +19,7 @@ The implementation uses the `gurobipy` library to interface with the Gurobi Opti
     *   Visualization of input data and optimization results.
 *   `Weatherdata.xlsx`: Excel file containing hourly weather data (solar irradiance in W/m², wind speed in m/s) for the three case study locations (Canada, Kenya, Madeira) over one year.
 *   `Data Demand Energy allocation EIT-year.xlsx`: Excel file containing hourly energy demand profiles (in Watts) for the three case study locations over one year. Includes both "real" and synthetically generated "random" demand profiles used in the model.
+*   `Datadoc.pdf`: The text document we used to record important results before the report was written. It is provided for openness.
 *   `README.md`: This file.
 
 ## Setup
